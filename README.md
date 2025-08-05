@@ -3,11 +3,11 @@
 ## Install
 
 ```
-$ rye install pdf-tables-to-excel --git https://github.com/uniola/pdf-tables-to-excel.git
+$ uv tool install https://github.com/uniola/pdf-tables-to-excel.git
 ```
 
 ## Usage
 
 ```
-$ pdf-tables-to-excel [PDF_FILE]
+$ pdf-tables-to-excel.exe [PDF_FILE]
 ```
